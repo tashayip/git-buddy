@@ -1,0 +1,13 @@
+{
+  "name": "git-buddy",
+  "owner": {
+    "name": "Tasha Yip"
+  },
+  "plugins": [
+    {
+      "name": "git-buddy",
+      "source": "./plugins/git-buddy",
+      "description": "Gitty (🦔) - a friendly, geeky git buddy for designers who design in code. Guides you at any step, soft on jargon, sharp on safety."
+    }
+  ]
+}
